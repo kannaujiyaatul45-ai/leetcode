@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
