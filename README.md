@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0198-house-robber](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
 | ------- |
