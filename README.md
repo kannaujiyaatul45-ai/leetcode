@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
