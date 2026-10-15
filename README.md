@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
