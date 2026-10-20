@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
