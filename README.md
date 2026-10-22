@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1323-maximum-69-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0198-house-robber) |
+| [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Tree
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
