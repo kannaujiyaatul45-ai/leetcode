@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
@@ -148,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Indexed Tree
 |  |
