@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1446-consecutive-characters](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1446-consecutive-characters) |
 | [2409-count-days-spent-together](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
