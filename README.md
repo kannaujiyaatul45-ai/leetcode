@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
