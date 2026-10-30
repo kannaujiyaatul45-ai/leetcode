@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1323-maximum-69-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
+| [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
+| [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
