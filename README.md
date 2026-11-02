@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1089-duplicate-zeros) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
