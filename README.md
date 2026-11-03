@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
+| [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
