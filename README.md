@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1323-maximum-69-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0027-remove-element) |
