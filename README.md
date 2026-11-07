@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
 |  |
