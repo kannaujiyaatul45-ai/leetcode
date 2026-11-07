@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0724-find-pivot-index) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
