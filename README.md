@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -272,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
