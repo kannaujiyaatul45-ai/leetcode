@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2409-count-days-spent-together) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -173,11 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2747-count-zero-request-servers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
