@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2409-count-days-spent-together) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3110-score-of-a-string](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
