@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
