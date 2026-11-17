@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0771-jewels-and-stones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1328-break-a-palindrome](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1328-break-a-palindrome) |
 | [1446-consecutive-characters](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1446-consecutive-characters) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
