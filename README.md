@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1089-duplicate-zeros) |
