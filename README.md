@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0263-ugly-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
