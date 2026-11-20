@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3524-find-x-value-of-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3151-special-array-i) |
+| [3524-find-x-value-of-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3524-find-x-value-of-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
