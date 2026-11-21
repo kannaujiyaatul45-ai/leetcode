@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2747-count-zero-request-servers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -354,12 +357,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
 |  |
 | ------- |
