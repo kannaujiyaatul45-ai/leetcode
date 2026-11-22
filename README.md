@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3151-special-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-sum-of-sortable-integers](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
