@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0836-rectangle-overlap](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
