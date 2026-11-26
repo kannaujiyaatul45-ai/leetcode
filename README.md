@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0231-power-of-two) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0088-merge-sorted-array) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kannaujiyaatul45-ai/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
